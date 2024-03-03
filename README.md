@@ -24,15 +24,6 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Junior Developer, studying at grit:lab <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Åland, Finland.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenk-idris&layout=compact)
-
-- 🔭 Student at [grit:lab](https://gritlab.ax), specializing in Mobile Development
-- 🌱 Learning Flutter and Swift
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
