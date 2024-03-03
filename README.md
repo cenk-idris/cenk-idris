@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenk-idris&layout=compact)
 
