@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <h1>
+    Döner mit alles?
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlMGcwamd6OWw5MHdieWZzN3EwMDVpaDR2bnZ3YXpjeDhjY3dqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZDbwPBuHSPt6zC/giphy.gif" width="200"/>
 </div>
 
@@ -16,17 +20,10 @@
 </div>
 
 <div align="center">
-  <h1>
-    Döner mit alles?
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
----
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
+  <h3>
+    My Toolbelt
+  </h3>
+    <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -36,6 +33,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+  </h1>
+</div>
+
+<div align="center">
+  
+</div>
+
+---
 
 
 <!--
