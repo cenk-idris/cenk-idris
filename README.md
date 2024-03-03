@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Döner mit alles?
+    Döner mit allem?
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlMGcwamd6OWw5MHdieWZzN3EwMDVpaDR2bnZ3YXpjeDhjY3dqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZDbwPBuHSPt6zC/giphy.gif" width="200"/>
